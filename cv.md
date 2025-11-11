@@ -4,7 +4,7 @@
 
 - **焦元** / 男 / 2003.01 / 英语 CET-4
 - 联系方式：19102804939 / imjiaoyuan@gmail.com
-- GitHub：imjiaoyuan / 博客：jiaoyuan.org
+- GitHub：imjiaoyuan / 博客：github.com/imjiaoyuan/blog
 
 ### **EDUCATION EXPERIENCE**
 
